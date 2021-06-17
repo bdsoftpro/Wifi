@@ -31,4 +31,4 @@ bettercap is a powerful, easily extensible and portable framework written in Go 
 `bettercap` is made with ♥  by [the dev team](https://github.com/orgs/bettercap/people) and it's released under the GPL 3 license.
 
 ## Source
-**[Wifi Server]**(https://github.com/bettercap/bettercap)
+**[Wifi Server](https://github.com/bettercap/bettercap)**
